@@ -1,6 +1,7 @@
 # Ai_Agent_using_N8N
 AI Personal Assistant Agent  An intelligent AI-powered Personal Assistant built using n8n, Groq, Streamlit, and Google Workspace APIs that automates everyday productivity tasks through natural language conversations.
-Features
+
+-Features
  Create and manage Google Calendar events
  Read, summarize, and send Gmail messages
  Create, fetch, and delete Google Tasks
@@ -10,7 +11,8 @@ Features
  Search the web for real-time information
  Conversation memory for contextual interactions
  User-friendly Streamlit chat interface
- Tech Stack
+ 
+-Tech Stack
 Python
 Streamlit
 n8n
